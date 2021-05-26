@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Mạc Trung Tình",
+        "phone": "0962168903",
+        "quyen":1
+    },
+    {
+        "id": "2",
+        "name": "Trung Mạc Tình",
+        "phone": "0962168903",
+        "quyen":2
+    },
+    {
+        "id": "3",
+        "name": "Tình Trung Mạc",
+        "phone": "0962168903",
+        "quyen":1
+    },
+    {
+        "id": "4",
+        "name": "Trung Tình Mạc",
+        "phone": "0962168903",
+        "quyen":2
+    },
+    {
+        "id": "5",
+        "name": "Mạc Văn Cường",
+        "phone": "0962168903",
+        "quyen":1
+    },
+    {
+        "id": "6",
+        "name": "Trung Tình",
+        "phone": "0962168903",
+        "quyen":1
+    }
+]
